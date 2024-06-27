@@ -1,0 +1,44 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "European Union",
+      "children": [
+        { "name": "Greece", "value": 1428 },
+        { "name": "Spain", "value": 347019 },
+        { "name": "France", "value": 206972 },
+        { "name": "Cyprus", "value": 2169 },
+        { "name": "Portugal", "value": 25591 }
+      ]
+    },
+    {
+      "name": "ACP countries",
+      "children": [
+        { "name": "Côte d'Ivoire", "value": 290688 },
+        { "name": "Dominican Republic", "value": 261041 },
+        { "name": "Cameroon", "value": 171507 },
+        { "name": "Ghana", "value": 53084 },
+        { "name": "Belize", "value": 29829 },
+        { "name": "Angola", "value": 10730 },
+        { "name": "Suriname", "value": 0 },  
+        { "name": "Other", "value": 194 }
+      ]
+    },
+    {
+      "name": "Latin America",
+      "children": [
+        { "name": "Ecuador", "value": 1425770 },
+        { "name": "Colombia", "value": 1208398 },
+        { "name": "Costa Rica", "value": 1056623 },
+        { "name": "Panama", "value": 180657 },
+        { "name": "Guatemala", "value": 172539 },
+        { "name": "Peru", "value": 80888 },
+        { "name": "Nicaragua", "value": 43957 },
+        { "name": "Mexico", "value": 3567 },
+        { "name": "Brazil", "value": 5532 },
+        { "name": "Honduras", "value": 547 },
+        { "name": "Others", "value": 0 }
+      ]
+    }
+  ]
+}
